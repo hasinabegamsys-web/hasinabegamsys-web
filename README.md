@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Hasina Begam 👋
 
-<!--
-**hasinabegamsys-web/hasinabegamsys-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AWS DevOps Engineer (Fresher)
 
-Here are some ideas to get you started:
+Passionate AWS DevOps enthusiast with knowledge in cloud computing, automation, CI/CD, and infrastructure management. Currently focusing on building hands-on skills in AWS and DevOps tools while actively seeking opportunities in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- AWS
+- Linux
+- Git & GitHub
+- Docker
+- Jenkins
+- CI/CD
+- Shell Scripting
+- Terraform (Basic)
+- Kubernetes (Learning)
+
+### ☁️ AWS Services
+
+- EC2
+- S3
+- IAM
+- VPC
+- Route 53
+- CloudWatch
+- Auto Scaling
+- Elastic Load Balancer
+
+### 📚 Currently Learning
+
+- Kubernetes
+- Terraform
+- Advanced AWS Services
+- Infrastructure as Code (IaC)
+
+### 📫 Connect With Me
+
+📧 Email: hasina.begam.sys@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/hasina-begam8825
+
+🐙 GitHub: https://github.com/hasinabegamsys-web
+
+### 🎯 Career Goal
+
+To begin my career as an AWS DevOps Engineer and build scalable, secure, and automated cloud infrastructure solutions using AWS and DevOps practices.
+
+### ⚡ Fun Fact
+
+I am continuously improving my AWS, DevOps, and Linux skills through hands-on projects and daily learning.
